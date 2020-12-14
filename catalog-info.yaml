@@ -9,5 +9,3 @@ spec:
   type: documentation
   lifecycle: experimental
   owner: "wq"
-plugins:
-  - techdocs-core
